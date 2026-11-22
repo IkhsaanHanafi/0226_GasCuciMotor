@@ -11,6 +11,7 @@ Aplikasi pemesanan, antrian, dan manajemen layanan cuci motor berbasis Android (
 | Minggu | Tanggal | Progress |
 |---|---|---|
 | 1 | 14 Nov 2026 | SRS v0.1 Tahap 1 (bab 1 dan 2) |
+| 2 | 22 Nov 2026 | SRS v0.2 Tahap 2 (bab 3: 9 fitur) |
 
 ## Status Fitur
 
