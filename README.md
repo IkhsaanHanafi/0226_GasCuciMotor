@@ -1,4 +1,4 @@
-﻿# GasCuciMotor
+# GasCuciMotor
 
 Aplikasi pemesanan, antrian, dan manajemen layanan cuci motor berbasis Android (Jetpack Compose).
 
@@ -12,7 +12,8 @@ Aplikasi pemesanan, antrian, dan manajemen layanan cuci motor berbasis Android (
 |---|---|---|
 | 1 | 14 Nov 2026 | SRS v0.1 Tahap 1: bab 1 (Introduction) dan bab 2 (Overall Description) |
 | 2 | 22 Nov 2026 | SRS v0.2 Tahap 2: bab 3 (System Features), 9 fitur dengan 57 kebutuhan fungsional |
-| 3 | 27 Nov 2026 | SRS v1.0 Final: bab 4 sampai 6 dan Appendix A sampai C, termasuk 7 diagram analisis |
+| 3 | 27 Nov 2026 | SRS v1.0 Final: bab 4 sampai 6 dan Appendix A sampai C, termasuk diagram analisis |
+| 3 (revisi) | 28 Nov 2026 | Revisi SRS: fitur foto motor dihapus (menjadi 55 kebutuhan fungsional), ERD dan activity diagram swimlane diperbarui untuk seluruh fitur |
 
 ## Detail Progress
 
@@ -31,7 +32,6 @@ Aplikasi pemesanan, antrian, dan manajemen layanan cuci motor berbasis Android (
 - Bab 5 Nonfunctional Requirements: performa, keselamatan, keamanan (JWT, refresh token, bcrypt), dan atribut kualitas.
 - Bab 6 Other Requirements: struktur database (6 entitas dan relasinya) dan ketentuan repository.
 - Appendix A (glosarium), Appendix B (analisis), dan Appendix C (daftar isu di luar ruang lingkup).
-- Appendix B berisi 7 diagram: use case diagram, diagram CRUDS per fitur, ERD, activity diagram, 2 sequence diagram (login dan refresh token, booking), dan class diagram MVVM.
 - Revision History diperbarui ke versi 1.0 dan daftar isi disesuaikan.
 
 ## Status Fitur
@@ -46,10 +46,11 @@ Aplikasi pemesanan, antrian, dan manajemen layanan cuci motor berbasis Android (
 | Manajemen karyawan | Belum |
 | Pembayaran tunai | Belum |
 | Riwayat dan laporan harian | Belum |
-| Penyimpanan file lokal | Belum |
+| Penyimpanan file lokal (ekspor dan baca file laporan CSV) | Belum |
 
 ## Dokumen
 
 - [SRS v0.1 Tahap 1](docs/SRS_GasCuciMotor_v0.1_Tahap1.docx)
 - [SRS v0.2 Tahap 2](docs/SRS_GasCuciMotor_v0.2_Tahap2.docx)
 - [SRS v1.0 Final](docs/SRS_GasCuciMotor_v1.0_Final.docx)
+- [SRS v1.1 Revisi](docs/SRS_GasCuciMotor_v1.1_.docx)
