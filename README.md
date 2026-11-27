@@ -16,17 +16,17 @@ Aplikasi pemesanan, antrian, dan manajemen layanan cuci motor berbasis Android (
 
 ## Detail Progress
 
-### Minggu 1: SRS v0.1 Tahap 1
+### Minggu 1: SRS v0.1 Tahap 1 (12 - 18 November 2026)
 - Menyusun cover, revision history, dan sign-off dokumen SRS.
 - Bab 1 Introduction: tujuan dokumen, konvensi penulisan, target pembaca, ruang lingkup, referensi, dan daftar singkatan.
 - Bab 2 Overall Description: arsitektur sistem (aplikasi Android, backend Express, database), tabel 9 fitur utama, kelas pengguna (Admin dan Customer), lingkungan operasi, batasan, dan asumsi.
 
-### Minggu 2: SRS v0.2 Tahap 2
+### Minggu 2: SRS v0.2 Tahap 2 (19 - 25 November 2026)
 - Menambah bab 3 System Features, tiap fitur berisi deskripsi dan prioritas, tabel aksi pengguna dan respons sistem, serta daftar kebutuhan fungsional (REQ).
 - Fitur yang dirinci: autentikasi dan otorisasi, manajemen layanan, manajemen customer, manajemen motor, manajemen pesanan dan antrian, manajemen karyawan, pembayaran tunai, riwayat dan laporan harian, penyimpanan file lokal.
 - Revision History diperbarui ke versi 0.2 dan daftar isi disesuaikan.
 
-### Minggu 3: SRS v1.0 Final
+### Minggu 3: SRS v1.0 Final (26 November - 2 Desember 2026)
 - Bab 4 External Interface Requirements: antarmuka pengguna, perangkat keras, perangkat lunak (tabel endpoint REST API), dan komunikasi.
 - Bab 5 Nonfunctional Requirements: performa, keselamatan, keamanan (JWT, refresh token, bcrypt), dan atribut kualitas.
 - Bab 6 Other Requirements: struktur database (6 entitas dan relasinya) dan ketentuan repository.
