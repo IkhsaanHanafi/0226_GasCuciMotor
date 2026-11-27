@@ -53,4 +53,4 @@ Aplikasi pemesanan, antrian, dan manajemen layanan cuci motor berbasis Android (
 - [SRS v0.1 Tahap 1](docs/SRS_GasCuciMotor_v0.1_Tahap1.docx)
 - [SRS v0.2 Tahap 2](docs/SRS_GasCuciMotor_v0.2_Tahap2.docx)
 - [SRS v1.0 Final](docs/SRS_GasCuciMotor_v1.0_Final.docx)
-- [SRS v1.1 Revisi](docs/SRS_GasCuciMotor_v1.1_.docx)
+- [SRS v1.1 Revisi](docs/SRS_GasCuciMotor_v1_1.docx)
